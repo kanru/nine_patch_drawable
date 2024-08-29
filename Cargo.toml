@@ -1,0 +1,8 @@
+[package]
+name = "nine_patch_drawable"
+version = "0.0.0"
+edition = "2021"
+description = "Provides the core functionality to read nine patch bitmaps defined in Android NinePatch drawables and algorithms to scale them."
+license = "MIT OR Apache-2.0"
+
+[dependencies]
